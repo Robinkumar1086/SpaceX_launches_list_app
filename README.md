@@ -18,6 +18,7 @@ Clone the repo
 
 2. ## Commands to run the app
   npm install
+  
   npm run dev
 
 3. ## open Registration page by clicking on Register button
